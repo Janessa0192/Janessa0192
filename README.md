@@ -86,7 +86,7 @@ Currently improving my **DSA & problem-solving skills**
 
  
 
-<a href="www.linkedin.com/in/janessa2006">
+<a href="[www.linkedin.com/in/janessa2006](https://www.linkedin.com/in/janessa2006/)">
 <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
