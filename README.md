@@ -29,31 +29,73 @@ Currently improving my **DSA & problem-solving skills**
 
 ---
 
+
 <div align="center">
 
 ## ✦ Tech Stack ✦
 
-### 💻 Programming
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp&theme=dark" />
-
-### 🤖 AI / ML
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-
-<br>
-
-`Machine Learning` • `Data Analysis` • `NLP` • `Transformers` • `RAG` • `Generative AI`
-
-### 🌐 Development
-
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,streamlit&theme=dark" />
-
-### 🗄️ Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&theme=dark" />
-
 </div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 💻 Languages
+
+**Python** • **Java** • **C++**
+
+</td>
+
+<td align="center" width="50%">
+
+### 🌐 Web Development
+
+**HTML** • **CSS** • **JavaScript**  
+**Django** • **Flask**
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🧠 Core CS
+
+**Data Structures & Algorithms**  
+**DBMS** • **Operating Systems**
+
+</td>
+
+<td align="center" width="50%">
+
+### 🤖 Machine Learning & Data
+
+**Machine Learning**  
+**Data Analytics** • **Agentic AI**
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+### 🛠️ Tools & Technologies
+
+**MongoDB** • **MySQL**  
+**Git** • **VS Code** • **Power BI**
+
+</td>
+
+<td align="center" width="50%">
+
+### 🎨 Design Tools
+
+**Canva** • **Figma**  
+**Adobe Photoshop**
+
+</td>
+</tr>
+</table>
 
 ---
 
