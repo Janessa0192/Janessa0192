@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:EC4899&height=220&section=header&text=JANESSA&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineering%20Student%20%7C%20Developer&descAlignY=60&descSize=18" width="100%"/>
 
@@ -138,4 +138,4 @@ Currently improving my **DSA & problem-solving skills**
 
 </div>
 
-
+ -->
