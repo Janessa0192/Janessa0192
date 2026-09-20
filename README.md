@@ -32,75 +32,80 @@ Currently improving my **DSA & problem-solving skills**
 
 <div align="center">
 
-## ✦ Tech Stack ✦
+<!-- TECH STACK SECTION START -->
+<div align="center">
 
+## ✦ Technical Stack
+
+<div style="background-color: #1e1e2e; border: 1px solid #313244; border-radius: 12px; padding: 20px; margin: 10px 0;">
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+
+<!-- Box 1: Core & Software Engineering -->
+<td width="50%" valign="top" style="padding: 10px;">
+<div style="background-color: #181825; border: 1px solid #45475a; border-radius: 8px; padding: 15px; min-height: 140px;">
+<h3 align="left" style="color: #89b4fa; margin-top: 0;">💻 Core & Software Engineering</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=ED8B00" />
+  <img src="https://img.shields.io/badge/C%2B%2B-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/DSA-20232A?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  <img src="https://img.shields.io/badge/DBMS-20232A?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-20232A?style=for-the-badge&logo=linux&logoColor=FCC624" />
+</p>
 </div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 💻 Languages
-
-**Python** • **Java** • **C++**
-
 </td>
 
-<td align="center" width="50%">
-
-### 🌐 Web Development
-
-**HTML** • **CSS** • **JavaScript**  
-**Django** • **Flask**
-
+<!-- Box 2: AI / ML & Data -->
+<td width="50%" valign="top" style="padding: 10px;">
+<div style="background-color: #181825; border: 1px solid #45475a; border-radius: 8px; padding: 15px; min-height: 140px;">
+<h3 align="left" style="color: #89b4fa; margin-top: 0;">🧠 AI / ML & Data</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine_Learning-20232A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Agentic_AI-20232A?style=for-the-badge&logo=openai&logoColor=8E44AD" />
+  <img src="https://img.shields.io/badge/RAG_%26_LLMs-20232A?style=for-the-badge&logo=openai&logoColor=10A37F" />
+  <img src="https://img.shields.io/badge/Data_Analytics-20232A?style=for-the-badge&logo=python&logoColor=0175C2" />
+</p>
+</div>
 </td>
+
 </tr>
-
 <tr>
-<td align="center" width="50%">
 
-### 🧠 Core CS
-
-**Data Structures & Algorithms**  
-**DBMS** • **Operating Systems**
-
+<!-- Box 3: Web & Databases -->
+<td width="50%" valign="top" style="padding: 10px;">
+<div style="background-color: #181825; border: 1px solid #45475a; border-radius: 8px; padding: 15px; min-height: 140px;">
+<h3 align="left" style="color: #89b4fa; margin-top: 0;">🌐 Web & Databases</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=092E20" />
+  <img src="https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+</p>
+</div>
 </td>
 
-<td align="center" width="50%">
-
-### 🤖 Machine Learning & Data
-
-**Machine Learning**  
-**Data Analytics** • **Agentic AI**
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-### 🛠️ Tools & Technologies
-
-**MongoDB** • **MySQL**  
-**Git** • **VS Code** • **Power BI**
-
+<!-- Box 4: Dev Tools & Design -->
+<td width="50%" valign="top" style="padding: 10px;">
+<div style="background-color: #181825; border: 1px solid #45475a; border-radius: 8px; padding: 15px; min-height: 140px;">
+<h3 align="left" style="color: #89b4fa; margin-top: 0;">🛠️ Dev Tools & Design</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Power_BI-20232A?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+</p>
+</div>
 </td>
 
-<td align="center" width="50%">
-
-### 🎨 Design Tools
-
-**Canva** • **Figma**  
-**Adobe Photoshop**
-
-</td>
 </tr>
 </table>
 
----
+</div>
 
-<div align="center">
-
+</div>
+<!-- TECH STACK SECTION END -->
 
 
 
