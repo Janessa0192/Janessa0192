@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI%2FML+Engineering+Student+%F0%9F%A4%96;Exploring+Agentic+AI+%F0%9F%A7%A0;Learning+DSA+%26+Software+Development+%F0%9F%92%BB;Building+%7C+Learning+%7C+Improving+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI%2FML+Engineering+Student;Building+%7C+Learning+%7C+Improving+%E2%9C%A8" />
 
 <br><br>
 
