@@ -1,141 +1,62 @@
-<!-- <div align="center">
+# Janessa
+**AI/ML Engineering Student & Software Developer**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8B5CF6,100:EC4899&height=220&section=header&text=JANESSA&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineering%20Student%20%7C%20Developer&descAlignY=60&descSize=18" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=AI%2FML+Engineering+Student+%F0%9F%A4%96;Exploring+Agentic+AI+%F0%9F%A7%A0;Learning+DSA+%26+Software+Development+%F0%9F%92%BB;Building+%7C+Learning+%7C+Improving+%E2%9C%A8" />
-
-<br><br>
-
-
-</div>
+> *Building, learning, and exploring the frontiers of Agentic AI, LLMs, and Software Development.*
 
 ---
 
-<div align="center">
+## ✦ About Me
 
-## ✦ About Me ✦
-
-</div>
-
-🎓 **B.E. AI/ML Engineering** student at **Chitkara University**
-
-Interested in **Software Development, AI/ML & Generative AI**
-
-Exploring **LLMs, RAG, Transformers and AI Agents**
-
-Currently improving my **DSA & problem-solving skills**
+- 🎓 **Education:** Pursuing B.E. in AI/ML Engineering at Chitkara University.
+- 🎯 **Focus Areas:** Software Development, Artificial Intelligence, Machine Learning & Generative AI.
+- 🧠 **Current Explorations:** Agentic AI architectures, RAG pipelines, Transformer models, and deep-diving into Data Structures & Algorithms.
+- 📈 **Goal:** Designing efficient algorithms and building intelligent, data-driven applications.
 
 ---
 
+## ✦ Technical Skills
 
-<div align="center">
+### Programming & Core Fundamentals
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-000000?style=flat-square&logo=leetcode&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-4479A1?style=flat-square&logo=database&logoColor=white)
+![OS](https://img.shields.io/badge/Operating_Systems-412991?style=flat-square&logo=linux&logoColor=white)
 
-## ✦ Tech Stack ✦
+### AI, ML & Data Engineering
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-8E44AD?style=flat-square&logo=openai&logoColor=white)
+![RAG & LLMs](https://img.shields.io/badge/RAG_%26_LLMs-10A37F?style=flat-square&logo=openai&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-0175C2?style=flat-square&logo=python&logoColor=white)
 
-</div>
+### Web Development & Databases
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 💻 Languages
-
-**Python** • **Java** • **C++**
-
-</td>
-
-<td align="center" width="50%">
-
-### 🌐 Web Development
-
-**HTML** • **CSS** • **JavaScript**  
-**Django** • **Flask**
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-### 🧠 Core CS
-
-**Data Structures & Algorithms**  
-**DBMS** • **Operating Systems**
-
-</td>
-
-<td align="center" width="50%">
-
-### 🤖 Machine Learning & Data
-
-**Machine Learning**  
-**Data Analytics** • **Agentic AI**
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-
-### 🛠️ Tools & Technologies
-
-**MongoDB** • **MySQL**  
-**Git** • **VS Code** • **Power BI**
-
-</td>
-
-<td align="center" width="50%">
-
-### 🎨 Design Tools
-
-**Canva** • **Figma**  
-**Adobe Photoshop**
-
-</td>
-</tr>
-</table>
+### Tools & Frameworks
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 ---
 
-<div align="center">
+## ✦ Certifications
 
-
-
-
-## ✦ Certifications ✦
-
-☁️ **Azure AI Fundamentals**
-☁️ **Azure Fundamentals**
-📊 **Azure Data Fundamentals**
-
-</div>
+- ☁️ **Microsoft Certified:** Azure AI Fundamentals (`AI-900`)
+- ☁️ **Microsoft Certified:** Azure Fundamentals (`AZ-900`)
+- 📊 **Microsoft Certified:** Azure Data Fundamentals (`DP-900`)
 
 ---
 
+## ✦ Connect with Me
 
-
-<div align="center">
-
-## ✦ Let's Connect ✦
-
-<br>
-
-<a href="https://github.com/Janessa0192">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
- 
-
-<a href="https://www.linkedin.com/in/janessa2006/">
-<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br><br>
-
-### ✧ Building • Learning • Improving ✧
-
-</div>
-
- -->
+[![GitHub](https://img.shields.io/badge/GitHub-Janessa0192-181717?style=flat-square&logo=github)](https://github.com/Janessa0192)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-janessa2006-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/janessa2006/)
